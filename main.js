@@ -1,5 +1,5 @@
 const loaderContainer = document.querySelector('.loader-container');
-const redirectUrl = 'https://your-target-website.com'; // Replace with your desired URL
+const redirectUrl = 'https://ushemanth.com'; // Replace with your desired URL
 
 setTimeout(() => {
   window.location.href = redirectUrl;
